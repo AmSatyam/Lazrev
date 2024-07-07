@@ -500,3 +500,27 @@ font-size: 2.4vw;
 
 }
 
+
+@media screen and (max-width: 480px) {
+  
+
+    #lparadi h2 {
+        font-size: 9vw;
+    }
+
+    #rparadi h5 {
+        font-size: 3vw;
+    }
+
+    #rparadi h4 {
+        font-size: 3vw;
+    }
+
+    .rightu h2 {
+        font-size: 5vw;
+    }
+
+    .rightu p {
+        font-size: 2.5vw;
+    }
+}
